@@ -1,6 +1,6 @@
 # flutter_sandbox
 
-A new Flutter project.
+My first flutter project following the tutorial. 
 
 ## Getting Started
 
